@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.bf538fe7.css",
+    "main.js": "/react-gh-pages/static/js/main.7fb0f4a0.js",
+    "static/media/AmishaSinha_image.jpeg": "/react-gh-pages/static/media/AmishaSinha_image.0f14c784bbb203ba388b.jpeg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.bf538fe7.css.map": "/react-gh-pages/static/css/main.bf538fe7.css.map",
+    "main.7fb0f4a0.js.map": "/react-gh-pages/static/js/main.7fb0f4a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.7fb0f4a0.js"
+  ]
+}
